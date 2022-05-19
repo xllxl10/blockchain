@@ -1,0 +1,4 @@
+<?php $start = "1624032641";  $end = strtotime(date("Y-m-d H:i:s"));   echo '<font color=blue>PANEL</font> > , , , , , 2021-06-18, <font color=red>';  echo round(abs($end - $start) / 60,0). " minute ago </font><br/>"; ?>
+<?php $start = "1624032644";  $end = strtotime(date("Y-m-d H:i:s"));   echo '<font color=blue>PANEL</font> > , , , , , 2021-06-18, <font color=red>';  echo round(abs($end - $start) / 60,0). " minute ago </font><br/>"; ?>
+<?php $start = "1624032655";  $end = strtotime(date("Y-m-d H:i:s"));   echo '<font color=blue>PANEL</font> > , , , , , 2021-06-18, <font color=red>';  echo round(abs($end - $start) / 60,0). " minute ago </font><br/>"; ?>
+<?php $start = "1624032658";  $end = strtotime(date("Y-m-d H:i:s"));   echo '<font color=blue>PANEL</font> > , , , , , 2021-06-18, <font color=red>';  echo round(abs($end - $start) / 60,0). " minute ago </font><br/>"; ?>
